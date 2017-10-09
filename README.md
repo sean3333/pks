@@ -1,6 +1,4 @@
-# pks
-
-## rule engine demo
+# rule engine demo
 
 this is a rule engine demo for calculating promotions in shopping cart.
 
